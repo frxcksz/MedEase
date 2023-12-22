@@ -33,7 +33,8 @@ MedEase is a application that can detect and identify medicines based on the app
 
 ------------
 
-### Below are links to each division group:
+### All parts of this project are described in each repository per division.
+Below are links to each division group:
 - [Mobile Development](https://github.com/ValdiANS/MedEase.git)
 - [Machine Learning](https://github.com/frxcksz/MedEase-ML.git)
 - [Cloud Computing](https://github.com/fajasumitra/MedEase-Backend.git)
